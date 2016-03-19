@@ -1,0 +1,14 @@
+layout_spectrum: 0.4160577
+typography_spectrum: 0.4527926
+color:
+  saturation: 0.2977808
+  lightness: 0.3073556
+  brandStrength: 0.4474321
+  rhythmicContrast: 0.9186106
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Movies & Tings'
